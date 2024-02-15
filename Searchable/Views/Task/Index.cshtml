@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Searchable.Models.ViewModel.TaskSummaryView>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-8 offset-2">
+            <h1 class="text-info text-center p-1 border border-dark">Task Details</h1>
+            <a class="btn btn-sn btn-success m-1" asp-controller="Task" asp-action="Create">Create</a>
+            <p class="text-center text-success">@TempData["error"]</p>
+            <table class="table table-bordered text-center">
+                <thead class="bg-dark text-light">
+                    <tr>
+                        <th>TaskId</th>
+                        <th>Title</th>
+                        <th>Description</th>
+                        <th>DueDate</th>
+                        <th>IsCompleted</th>
+                        <th>UserId</th>
+                        <th>CategoryID</th>
+
+
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var a in Model)
+                    {
+                        <tr>
+                            <td>@a.TaskId</td>
+                            <td>@a.Title</td>
+                            <td>@a.Description</td>
+                            <td>@a.DueDate</td>
+                            <td>@a.IsCompleted</td>
+                            <td>@a.UserId</td>
+                            <td>@a.CategoryId</td>
+
+                            <td>
+                                <a class="btn btn-sm btn-primary" asp-action="" asp-controller="Task" asp-route-id="@a.TaskId">Edit</a>
+                                <a class="btn btn-sm btn-danger" asp-action="" asp-controller="Task" asp-route-id="@a.TaskId">Delete</a>
+                                <a class="btn btn-sm btn-warning" asp-action="" asp-controller="Task" asp-route-id="@a.TaskId">Details</a>
+
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+

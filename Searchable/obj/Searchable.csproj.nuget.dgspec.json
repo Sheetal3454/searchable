@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ctala\\OneDrive\\Desktop\\Searchable Design\\Searchable\\Searchable\\Searchable.csproj": {}
+    "C:\\Users\\ctala\\OneDrive\\Desktop\\New folder\\Searchable\\Searchable.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ctala\\OneDrive\\Desktop\\Searchable Design\\Searchable\\Searchable\\Searchable.csproj": {
+    "C:\\Users\\ctala\\OneDrive\\Desktop\\New folder\\Searchable\\Searchable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ctala\\OneDrive\\Desktop\\Searchable Design\\Searchable\\Searchable\\Searchable.csproj",
+        "projectUniqueName": "C:\\Users\\ctala\\OneDrive\\Desktop\\New folder\\Searchable\\Searchable.csproj",
         "projectName": "Searchable",
-        "projectPath": "C:\\Users\\ctala\\OneDrive\\Desktop\\Searchable Design\\Searchable\\Searchable\\Searchable.csproj",
+        "projectPath": "C:\\Users\\ctala\\OneDrive\\Desktop\\New folder\\Searchable\\Searchable.csproj",
         "packagesPath": "C:\\Users\\ctala\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ctala\\OneDrive\\Desktop\\Searchable Design\\Searchable\\Searchable\\obj\\",
+        "outputPath": "C:\\Users\\ctala\\OneDrive\\Desktop\\New folder\\Searchable\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ctala\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,7 +42,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
               "target": "Package",
-              "version": "[8.0.1, )"
+              "version": "[8.0.2, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -60,7 +60,7 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.1, )"
             }
           },
           "imports": [

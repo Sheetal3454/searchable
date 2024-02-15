@@ -17,59 +17,83 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Searchable
 build_property.RootNamespace = Searchable
-build_property.ProjectDir = C:\Users\ctala\OneDrive\Desktop\Searchable Design\Searchable\Searchable\
+build_property.ProjectDir = C:\Users\ctala\OneDrive\Desktop\New folder\Searchable\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ctala\OneDrive\Desktop\Searchable Design\Searchable\Searchable
+build_property.MSBuildProjectDirectory = C:\Users\ctala\OneDrive\Desktop\New folder\Searchable
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ctala/OneDrive/Desktop/Searchable Design/Searchable/Searchable/Views/Home/Index.cshtml]
+[C:/Users/ctala/OneDrive/Desktop/New folder/Searchable/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ctala/OneDrive/Desktop/New folder/Searchable/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ctala/OneDrive/Desktop/New folder/Searchable/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ctala/OneDrive/Desktop/New folder/Searchable/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ctala/OneDrive/Desktop/Searchable Design/Searchable/Searchable/Views/Home/Privacy.cshtml]
+[C:/Users/ctala/OneDrive/Desktop/New folder/Searchable/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ctala/OneDrive/Desktop/Searchable Design/Searchable/Searchable/Views/Shared/Error.cshtml]
+[C:/Users/ctala/OneDrive/Desktop/New folder/Searchable/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ctala/OneDrive/Desktop/Searchable Design/Searchable/Searchable/Views/Shared/_Pager.cshtml]
+[C:/Users/ctala/OneDrive/Desktop/New folder/Searchable/Views/Shared/_Pager.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYWdlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ctala/OneDrive/Desktop/Searchable Design/Searchable/Searchable/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ctala/OneDrive/Desktop/New folder/Searchable/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ctala/OneDrive/Desktop/Searchable Design/Searchable/Searchable/Views/User/Create.cshtml]
+[C:/Users/ctala/OneDrive/Desktop/New folder/Searchable/Views/Task/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ctala/OneDrive/Desktop/New folder/Searchable/Views/Task/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ctala/OneDrive/Desktop/New folder/Searchable/Views/Task/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ctala/OneDrive/Desktop/New folder/Searchable/Views/User/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ctala/OneDrive/Desktop/Searchable Design/Searchable/Searchable/Views/User/Delete.cshtml]
+[C:/Users/ctala/OneDrive/Desktop/New folder/Searchable/Views/User/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ctala/OneDrive/Desktop/Searchable Design/Searchable/Searchable/Views/User/Edit.cshtml]
+[C:/Users/ctala/OneDrive/Desktop/New folder/Searchable/Views/User/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ctala/OneDrive/Desktop/Searchable Design/Searchable/Searchable/Views/User/Index.cshtml]
+[C:/Users/ctala/OneDrive/Desktop/New folder/Searchable/Views/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ctala/OneDrive/Desktop/Searchable Design/Searchable/Searchable/Views/_ViewImports.cshtml]
+[C:/Users/ctala/OneDrive/Desktop/New folder/Searchable/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ctala/OneDrive/Desktop/Searchable Design/Searchable/Searchable/Views/_ViewStart.cshtml]
+[C:/Users/ctala/OneDrive/Desktop/New folder/Searchable/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ctala/OneDrive/Desktop/Searchable Design/Searchable/Searchable/Views/Shared/_Layout.cshtml]
+[C:/Users/ctala/OneDrive/Desktop/New folder/Searchable/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-toi7um1jt6

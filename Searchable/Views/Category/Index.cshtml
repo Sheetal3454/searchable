@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Searchable.Models.Category>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-8 offset-2">
+            <h1 class="text-info text-center p-1 border border-dark">Category Details</h1>
+            <a class="btn btn-sn btn-success m-1" asp-controller="Category" asp-action="Create">Create</a>
+            <p class="text-center text-success">@TempData["error"]</p>
+            <table class="table table-bordered text-center">
+                <thead class="bg-dark text-light">
+                    <tr>
+                        <th>CateGoryId</th>
+                        <th>Name</th>
+                        <th>CreatedBy</th>
+                        <th>ModifiedBy</th>
+                        <th>ModifiedDate</th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var d in Model)
+                    {
+                        <tr>
+                            <td>@d.CategoryId</td>
+                            <td>@d.CategoryName</td>
+                            <td>@d.CreatedBy</td>
+                            <td>@d.ModifiedBy</td>
+                            <td>@d.CreatedDate</td>
+
+                            <td>
+                                <a class="btn btn-sm btn-primary" asp-action="Edit" asp-controller="Category" asp-route-id="@d.CategoryId">Edit</a>
+                                <a class="btn btn-sm btn-danger" asp-action="Delete" asp-controller="Category" asp-route-id="@d.CategoryId">Delete</a>
+                                <a class="btn btn-sm btn-warning" asp-action="" asp-controller="Task" asp-route-id="@d.CategoryId">Task</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+

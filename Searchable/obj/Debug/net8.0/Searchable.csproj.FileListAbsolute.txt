@@ -260,3 +260,15 @@ C:\Users\ctala\OneDrive\Desktop\Searchable Design\Searchable\Searchable\bin\Debu
 C:\Users\ctala\OneDrive\Desktop\Searchable Design\Searchable\Searchable\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\ctala\OneDrive\Desktop\Searchable Design\Searchable\Searchable\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\ctala\OneDrive\Desktop\Searchable Design\Searchable\Searchable\bin\Debug\net8.0\Requirement.dll
+C:\Users\ctala\OneDrive\Desktop\New folder\Searchable\obj\Debug\net8.0\Searchable.csproj.AssemblyReference.cache
+C:\Users\ctala\OneDrive\Desktop\New folder\Searchable\obj\Debug\net8.0\Searchable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ctala\OneDrive\Desktop\New folder\Searchable\obj\Debug\net8.0\Searchable.AssemblyInfoInputs.cache
+C:\Users\ctala\OneDrive\Desktop\New folder\Searchable\obj\Debug\net8.0\Searchable.AssemblyInfo.cs
+C:\Users\ctala\OneDrive\Desktop\New folder\Searchable\obj\Debug\net8.0\Searchable.csproj.CoreCompileInputs.cache
+C:\Users\ctala\OneDrive\Desktop\New folder\Searchable\obj\Debug\net8.0\Searchable.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ctala\OneDrive\Desktop\New folder\Searchable\obj\Debug\net8.0\Searchable.RazorAssemblyInfo.cache
+C:\Users\ctala\OneDrive\Desktop\New folder\Searchable\obj\Debug\net8.0\Searchable.RazorAssemblyInfo.cs
+C:\Users\ctala\OneDrive\Desktop\New folder\Searchable\obj\Debug\net8.0\Searchable.sourcelink.json
+C:\Users\ctala\OneDrive\Desktop\New folder\Searchable\obj\Debug\net8.0\Searchable.dll
+C:\Users\ctala\OneDrive\Desktop\New folder\Searchable\obj\Debug\net8.0\refint\Searchable.dll
+C:\Users\ctala\OneDrive\Desktop\New folder\Searchable\obj\Debug\net8.0\Searchable.pdb
